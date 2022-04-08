@@ -23,7 +23,7 @@
 </a>
 
 # Contact Me
-<!---![](https://dcbadge.vercel.app/api/shield/700173927871152131)--->
+![](https://dcbadge.vercel.app/api/shield/700173927871152131)
 
 <a href="https://twitter.com/BuuyaXD" target="blank"><img src="https://img.shields.io/twitter/follow/BuuyaXD?logo=twitter&style=for-the-badge"/>
 	
