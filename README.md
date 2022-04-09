@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **buuyaxd@gmail.com**
 
-- ⚡ Fun fact **I am Writer enthusiast**
+- ⚡ Fun fact **I am a Writer enthusiast**
 	
 <a href="https://buuyaxd.github.io"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
 </a>
