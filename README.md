@@ -5,11 +5,11 @@
 
 # What I'm doing
 
-- 🔭 I’m currently working on [Kalen](https://github.com/buuyaxd/kalen)
+- 🔭 I’m currently working on [Kalen](@xdev-support)
 
 - 🌱 I’m currently learning **Javascript** and **C#**
 
-- 👯 I’m looking to collaborate on **Discord bot**
+- 👯 I’m looking to collaborate on **Discord bots**
 
 - 👨‍💻 All of my projects are presented at [My Personal Portfolio](https://buuya.github.io)
 
@@ -19,14 +19,14 @@
 
 - ⚡ Fun fact **I am a Writer enthusiast**
 	
-<a href="https://buuyaxd.github.io"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
+<a href="https://buuya.github.io"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
 </a>
 
 # Contact Me
 ![](https://dcbadge.vercel.app/api/shield/700173927871152131)
 
-<a href="https://twitter.com/BuuyaXD" target="blank"><img src="https://img.shields.io/twitter/follow/BuuyaXD?logo=twitter&style=for-the-badge"/>
+<a href="https://twitter.com/DaRealBuuya" target="blank"><img src="https://img.shields.io/twitter/follow/BuuyaXD?logo=twitter&style=for-the-badge"/>
 	
-[![widget](https://discord.com/widget?id=913741854305034240&theme=dark)](https://discord.gg/nmQqyaDrrU)
+[![widget](https://discord.com/widget?id=966658758690373722&theme=dark)](https://discord.gg/nmQqyaDrrU)
 	
 	
