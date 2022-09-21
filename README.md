@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayub | Buuya</h1>
-<h3 align="center">A passionate Programmer, Frontend Developer and Discord Bot Developer</h3>
+<h3 align="center">A passionate Programmer, Web Developer and Discord Bot Developer</h3>
 
 <img align="right" alt="GIF" src="https://github.com/BuuyaXD/BuuyaXD/blob/main/heckerr.gif" width="400" height="300" />
 
@@ -27,6 +27,6 @@
 
 <a href="https://twitter.com/BuuyaXD" target="blank"><img src="https://img.shields.io/twitter/follow/BuuyaXD?logo=twitter&style=for-the-badge"/>
 	
-<!---[![widget](https://discord.com/widget?id=913741854305034240&theme=dark)](https://discord.gg/na)--->
+[![widget](https://discord.com/widget?id=913741854305034240&theme=dark)](https://discord.gg/na)
 	
 	
