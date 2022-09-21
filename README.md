@@ -19,13 +19,13 @@
 
 - ⚡ Fun fact **I am a Writer enthusiast**
 	
-<a href="https://buuya.github.io"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
+<a href="https://buuya.github.io" target="_blank"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/>
 </a>
 
 # Contact Me
-![](https://dcbadge.vercel.app/api/shield/700173927871152131)
+<a href="https://discordapp.com/users/700173927871152131" target="_blank">![](https://dcbadge.vercel.app/api/shield/700173927871152131)
 
-<img src="https://img.shields.io/twitter/follow/DaRealBuuya?logo=twitter&style=for-the-badge"/>
+<a href="https://twitter.com/DaRealBuuya" target="_blank"><img src="https://img.shields.io/twitter/follow/DaRealBuuya?logo=twitter&style=for-the-badge"/>
 	
-![XDev™️ Support](https://discordapp.com/api/guilds/966658758690373722/widget.png?style=banner2)	
+![XDev™️ Support]<a href="https://discord.gg/nmQqyaDrrU" target="_blank">(https://discordapp.com/api/guilds/966658758690373722/widget.png?style=banner2)	
 	
