@@ -27,5 +27,5 @@
 
 <img src="https://img.shields.io/twitter/follow/DaRealBuuya?logo=twitter&style=for-the-badge"/>
 	
-![XDev™️ Support](https://discordapp.com/api/guilds/[966658758690373722]/widget.png?style=banner2)	
+![XDev™️ Support](https://discordapp.com/api/guilds/966658758690373722/widget.png?style=banner2)	
 	
