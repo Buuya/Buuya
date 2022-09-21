@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Discord bot**
 
-- 👨‍💻 All of my projects are available at [https://buuyaxd.github.io](https://buuyaxd.github.io)
+- 👨‍💻 All of my projects are presented at [My Personal Portfolio](https://buuya.github.io)
 
-- 💬 Ask me about **discord.js**
+- 💬 Ask me about **discord.js** & **discord.py**
 
 - 📫 How to reach me **buuyaxd@gmail.com**
 
