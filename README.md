@@ -25,7 +25,7 @@
 # Contact Me
 ![](https://dcbadge.vercel.app/api/shield/700173927871152131)
 
-<a href="https://twitter.com/DaRealBuuya" target="blank"><img src="https://img.shields.io/twitter/follow/DaRealBuuya?logo=twitter&style=for-the-badge"/>
+<img src="https://img.shields.io/twitter/follow/DaRealBuuya?logo=twitter&style=for-the-badge"/>
 	
-![Discord Banner 2](https://discordapp.com/api/guilds/[966658758690373722]/widget.png?style=banner2)	
+![XDev™️ Support](https://discordapp.com/api/guilds/[966658758690373722]/widget.png?style=banner2)	
 	
