@@ -1,42 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ayub | Buuya</h1>
-<h3 align="center">A passionate Programmer, Web Developer and Discord Bot Developer</h3>
+# Hi there, I'm Buuya! 👋
 
-<h4>Welcome to my GitHub profile, I am Buuya, a software developer with a passion for creating innovative solutions to complex problems. My goal is to use technology to make a positive impact on the world.
+Welcome to my GitHub profile! 🌟 Here you can find some of my recent projects and contributions to the open-source community. I'm a software engineer with a passion for creating innovative solutions to complex problems. When I'm not coding, I enjoy hiking, reading, and exploring new technologies.
 
-As a developer, I have experience working with a variety of programming languages including Java, Python, and JavaScript. I am also familiar with various software development methodologies and tools, such as Agile and Git.
+## Featured Projects
 
-My passion for coding started at a young age, and since then, I have been constantly improving my skills and knowledge. I love learning new technologies and challenging myself to create better and more efficient code. I also enjoy collaborating with other developers to create high-quality projects.
+Here are some of my recent projects that I'm particularly proud of:
 
-On my GitHub page, you will find a variety of projects that showcase my skills and interests. These range from simple applications to complex systems, all with the goal of solving real-world problems. I believe that code should be clean, maintainable, and efficient, and I strive to achieve these qualities in every project I work on.
+- **Weather Now**: A weather app that uses the OpenWeatherMap API to display current weather conditions for any location in the world. Users can also view hourly and daily forecasts, as well as save their favorite locations.
 
-Aside from coding, I am also interested in other areas of technology, such as machine learning and data analysis. I believe that technology can be used to solve many of the world's most pressing problems, and I am committed to using my skills to make a positive impact.
+  ![Weather Now](https://media.giphy.com/media/j5xrH8fe2KwnzvrsZI/giphy.gif)
 
-Thank you for visiting my GitHub page, and I hope you find my projects informative and inspiring. If you have any questions or would like to collaborate on a project, feel free to reach out to me.</h4>
+  Technologies used: HTML, CSS, JavaScript, OpenWeatherMap API
+  - Link to project: https://buuya.github.io/weather-now/
 
-<img align="right" alt="GIF" src="https://github.com/BuuyaXD/BuuyaXD/blob/main/heckerr.gif" width="400" height="300" />
+- **Task Master**: A task management app that allows users to create, edit, and delete tasks, as well as mark them as complete. The app also includes a Pomodoro timer and a habit tracker to help users stay productive.
 
-# What I'm doing
+  ![Task Master](https://media.giphy.com/media/Mp7ZZn8PnsA7TQ2bAC/giphy.gif)
 
-- 🔭 I’m currently working on [Kalen](https://github.com/XDev-Support)
+  Technologies used: React, Firebase, Material UI
+  - Link to project: https://buuya.github.io/task-master/
 
-- 🌱 I’m currently learning **Javascript** and **C#**
+- **Portfolio Website**: My personal portfolio website, where you can learn more about me and my work. The site was built using React and is deployed on GitHub Pages.
 
-- 👯 I’m looking to collaborate on **Discord bots**
+  ![Portfolio Website](https://media.giphy.com/media/jw6dI8MvYYnbYmvmCJ/giphy.gif)
 
-- 👨‍💻 All of my projects are presented at [My Personal Portfolio](https://buuya.github.io)
+  Technologies used: React, GitHub Pages
+  - Link to project: https://buuya.github.io/
 
-- 💬 Ask me about **discord.js** & **discord.py**
+- **Code Snippets**: A collection of useful code snippets that I've created or come across in my work as a software engineer. The snippets cover a range of languages and frameworks, from JavaScript and Python to React and Vue.
 
-- 📫 How to reach me **buuyaxd@gmail.com**
+  ![Code Snippets](https://media.giphy.com/media/Y3y3vqKsKFYly24M2z/giphy.gif)
 
-- ⚡ Fun fact **I am a Writer enthusiast**
-	
-<a href="https://buuya.github.io"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg"/> </a>
+  Technologies used: Various programming languages and frameworks
+  - Link to project: https://github.com/Buuya/code-snippets
 
-# Contact Me
-<a href="https://discordapp.com/users/700173927871152131"> ![](https://dcbadge.vercel.app/api/shield/700173927871152131) </a>
-
-<a href="https://twitter.com/DaRealBuuya"> <img src="https://img.shields.io/twitter/follow/DaRealBuuya?logo=twitter&style=for-the-badge"/> </a>
-	
-<a href="https://discord.gg/nmQqyaDrrU">![XDev™️ Support](https://discordapp.com/api/guilds/966658758690373722/widget.png?style=banner2) </a>	
-	
+I hope you find these projects interesting and useful! If you have any feedback or suggestions, please feel free to reach out to me. I'm always looking for ways to improve my skills and contribute to the community. Thanks for stopping by!
