@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! 🌟 Here you can find some of my recent projects and contributions to the open-source community. I'm a software engineer with a passion for creating innovative solutions to complex problems. When I'm not coding, I enjoy hiking, reading, and exploring new technologies.
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@cptbuuya/30-nites-of-code)  
+  ![@cptbuuya #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cptbuuya)
+
 ## Featured Projects
 
 Here are some of my recent projects that I'm particularly proud of:
