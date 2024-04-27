@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ayub</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buuya" alt="buuya" /></a> </p>
+
+- 🔭 I’m currently working on [Pean - Discord Bot](https://github.com/BXDevTech/Pean)
+
+- 🌱 I’m currently learning **Mobile App Development**
+
+- 👨‍💻 All of my projects are available at [buuya.github.io](buuya.github.io)
+
+- 🏢 I Started my own Tech Organisation [github.com/bxdevtech](github.com/bxdevtech)
+
+- 💬 Ask me about **Markup Languages and Python bugs**
+
+- 📫 How to reach me **bxdevtech@gmail.com**
+
+- ⚡ Fun fact **I wanted to become an Author**
+
 ### Featured Project 1: Pean - Discord Bot
 
 <img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_logo.png" alt="Pean Logo" width="200"/> <img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_banner.jpg" alt="Pean Banner" width="620"/>
@@ -20,22 +36,6 @@ Benin is our flagship project, bringing music and beats to your Discord Server. 
 Benin is our flagship project, bringing memes and laughter to your Discord Server. Check out the code, contribute, and let's make Benin even more awesome together!
 
 - **Repository**: [Benin Discord Bot](https://github.com/BXDevTech/Benin)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buuya" alt="buuya" /></a> </p>
-
-- 🔭 I’m currently working on [Pean - Discord Bot](https://github.com/BXDevTech/Pean)
-
-- 🌱 I’m currently learning **Mobile App Development**
-
-- 👨‍💻 All of my projects are available at [buuya.github.io](buuya.github.io)
-
-- 🏢 I Started my own Tech Organisation [github.com/bxdevtech](github.com/bxdevtech)
-
-- 💬 Ask me about **Markup Languages and Python bugs**
-
-- 📫 How to reach me **bxdevtech@gmail.com**
-
-- ⚡ Fun fact **I wanted to become an Author**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
