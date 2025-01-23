@@ -51,7 +51,6 @@ Even is our flagship project, bringing weebs and neeks to your Discord Server.
   <a href="https://twitter.com/cptbuuya" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40"/></a>
   <a href="https://linkedin.com/in/ayub-mox" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/></a>
   <a href="https://instagram.com/cptbuuya" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40"/></a>
-  <a href="https://www.youtube.com/c/@buuya" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="40"/></a>
   <a href="https://discord.gg/SsW9HPKnUR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40"/></a>
 </p>
 
