@@ -24,7 +24,7 @@
 Pean brings music and beats to your Discord server, making every chat session lively and fun!  
 👉 [Explore the Repository](https://github.com/BXDevTech/Pean)
 
-<img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_banner.jpg" alt="Pean Banner" width="620"/>
+<img src="https://github.com/BXDevTech/Pean/blob/main/Assets/pean_banner.jpg" alt="Pean Banner" width="620"/>
 
 ---
 
