@@ -24,7 +24,6 @@
 Pean brings music and beats to your Discord server, making every chat session lively and fun!  
 👉 [Explore the Repository](https://github.com/BXDevTech/Pean)
 
-<img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_logo.png" alt="Pean Logo" width="200"/>  
 <img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_banner.jpg" alt="Pean Banner" width="620"/>
 
 ---
@@ -33,8 +32,15 @@ Pean brings music and beats to your Discord server, making every chat session li
 Benin spreads laughter with memes and creative content for Discord users!  
 👉 [Explore the Repository](https://github.com/BXDevTech/Benin)
 
-<img src="https://github.com/BXDevTech/Benin/blob/main/assets/benin_logo.png" alt="Benin Logo" width="200"/>  
 <img src="https://github.com/BXDevTech/Benin/blob/main/assets/benin_banner.png" alt="Benin Banner" width="620"/>
+
+---
+
+#### 💀 **Even - Discord Bot**
+Even is our flagship project, bringing weebs and neeks to your Discord Server.  
+👉 [Explore the Repository](https://github.com/BXDevTech/Even)
+
+<img src="https://github.com/BXDevTech/Even/blob/main/assets/even_banner.jpg" alt="Even Banner" width="620"/>
 
 ---
 
@@ -54,7 +60,6 @@ Benin spreads laughter with memes and creative content for Discord users!
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buuya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buuya&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buuya&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
