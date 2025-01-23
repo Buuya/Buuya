@@ -40,7 +40,7 @@ Benin spreads laughter with memes and creative content for Discord users!
 Even is our flagship project, bringing weebs and neeks to your Discord Server.  
 👉 [Explore the Repository](https://github.com/BXDevTech/Even)
 
-<img src="https://github.com/BXDevTech/Even/blob/main/assets/even_banner.png " alt="Even Banner" width="620"/>
+<img src="https://github.com/BXDevTech/Even/blob/main/Assets/even_banner.png" alt="Even Banner" width="620"/>
 
 ---
 
